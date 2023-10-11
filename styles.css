@@ -117,15 +117,16 @@
     height: 511px;
     border: 2px;
     background-color: white;
+    color: #23166c;
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* padding: 10px; */
+    padding: 10px;
     border-radius: 5px;
 }
 
 .form-container h2{
-    font-size: 1rem;
+    font-size: 2.5rem;
     font-weight: 600;
     margin-top: 2rem;
 }
@@ -148,7 +149,7 @@
 }
 
 .verify-container {
-    margin-left: 8px;
+    margin-left: 2px;
     margin-top: 10px;
     display: flex;
     gap: 13px;
@@ -158,7 +159,7 @@
 .form-btn {
     height: 43px;
     border-radius: 20px;
-    background-color: #482BE7;
+    background-color: #4a39a8;
     color: white;
     font-size: 1.1rem;
     letter-spacing: 2px;
@@ -208,7 +209,7 @@
 .bottom-section {
     width: 80%;
     text-align: center;
-    margin-top: 1.8rem;
+    margin-top: 0.8rem;
     color: rgb(119, 119, 119);
     font-size: 1.1rem;
     opacity: 0.8;
